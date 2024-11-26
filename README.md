@@ -39,27 +39,6 @@ This **C++ project** simulates the classic Stone-Paper-Scissors game 🎮, allow
 
 ---
 
-## ▶️ Sample Output  
-
-Here’s what a typical game output might look like:  
-
-```plaintext  
-Round [1] begins:  
-Your Choice: 📄 Paper  
-Computer Choice: ✂️ Scissors  
-Round Winner: [Computer]  
-
-Round [2] begins:  
-Your Choice: 🪨 Stone  
-Computer Choice: 🪨 Stone  
-Round Winner: [No Winner]  
-
-Final Game Results:  
-Rounds Played: 5  
-Player Wins: 2  
-Computer Wins: 3  
-Draws: 0  
-Winner: Computer
 
 
 # 🎯 Learning Outcomes
@@ -75,4 +54,5 @@ This project helps you explore and implement various C++ programming concepts:
 # 🏁 Ready to Play?
 
 Clone this repository, compile the code, and start challenging the computer! 🚀
+
 

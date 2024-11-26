@@ -59,4 +59,20 @@ Rounds Played: 5
 Player Wins: 2  
 Computer Wins: 3  
 Draws: 0  
-Winner: Computer  
+Winner: Computer
+
+
+# 🎯 Learning Outcomes
+
+This project helps you explore and implement various C++ programming concepts:
+
+- ✅ **Enums and Structs**: Organizing game elements efficiently.
+- ✅ **Functions**: Ensuring modularity and reusability for game logic.
+- ✅ **Random Number Generation**: Adding unpredictability to gameplay.
+- ✅ **Control Structures**: Utilizing loops and conditionals for decision-making.
+- ✅ **Console Formatting**: Using colors and formatted output to enhance interactivity.
+
+# 🏁 Ready to Play?
+
+Clone this repository, compile the code, and start challenging the computer! 🚀
+
